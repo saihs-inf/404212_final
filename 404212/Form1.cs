@@ -21,5 +21,15 @@ namespace _404212
         {
             MessageBox.Show("hellow word");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("button1");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = textBox1.Text;
+        }
     }
 }
