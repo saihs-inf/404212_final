@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\404212\404212\bin\Debug\404212.exe.config
+C:\Users\user\Desktop\404212\404212\bin\Debug\404212.exe
+C:\Users\user\Desktop\404212\404212\bin\Debug\404212.pdb
+C:\Users\user\Desktop\404212\404212\obj\Debug\404212.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\404212\404212\obj\Debug\_404212.Form1.resources
+C:\Users\user\Desktop\404212\404212\obj\Debug\_404212.Properties.Resources.resources
+C:\Users\user\Desktop\404212\404212\obj\Debug\404212.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\404212\404212\obj\Debug\404212.exe
+C:\Users\user\Desktop\404212\404212\obj\Debug\404212.pdb
